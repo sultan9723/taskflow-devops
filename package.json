@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sultan9723/taskflow-devops/issues"
   },
-  "homepage": "https://github.com/sultan9723/taskflow-devops#readme"
+  "homepage": "https://github.com/sultan9723/taskflow-devops#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
 }
