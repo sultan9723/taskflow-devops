@@ -1,0 +1,27 @@
+{
+  "name": "taskflow-devops",
+  "version": "1.0.0",
+  "description": "TaskFlow is a basic task management application developed to demonstrate proper Git and GitHub collaborative workflows in a DevOps environment.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "build": "node src/app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultan9723/taskflow-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sultan9723/taskflow-devops/issues"
+  },
+  "homepage": "https://github.com/sultan9723/taskflow-devops#readme"
+}
